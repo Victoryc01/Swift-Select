@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="302ccb95-3162-41ec-8d00-71373a18e099" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/authcontroller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/EmployerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/infrastructure/controllers/employercontrollers/EmployerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/EmployerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/EmployerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/EmployerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/swiftselect/src/main/java/com/swiftselect/services/serviceImpl/EmployerServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XoyYIE5NB1b9Q2xZy0564dmFZf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "feature/endpoint-for-jobseeker-profile-update",
+    "last_opened_file_path": "/Users/decagon/Downloads/Swiftselect 2/SQ17-SwiftSelect-Live-Project-Backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.swiftselect.infrastructure.documentations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SwiftselectApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swiftselect.Main" />
+      <module name="swiftselect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swiftselect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwiftselectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="EMAIL" value="swiftselect12@gmail.com" />
+        <env name="PASSWORD" value="jbgooqghhskeozcj" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="swiftselect" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.swiftselect.SwiftselectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302ccb95-3162-41ec-8d00-71373a18e099" name="Changes" comment="" />
+      <created>1699309792353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699309792353</updated>
+      <workItem from="1699309799302" duration="27536000" />
+      <workItem from="1699455468990" duration="53806000" />
+      <workItem from="1699637680809" duration="8476000" />
+      <workItem from="1699647209262" duration="47596000" />
+      <workItem from="1699803933394" duration="2529000" />
+      <workItem from="1699822454009" duration="1040000" />
+      <workItem from="1699886814184" duration="2707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
